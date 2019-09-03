@@ -1,6 +1,6 @@
 
 ---
-permalink: /macOS/
+permalink: /MacOS/
 ---
 # MacOS Introductions
 
